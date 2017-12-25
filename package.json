@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NeverwinterMoon/device-grid/issues"
   },
-  "homepage": "https://github.com/NeverwinterMoon/device-grid#readme"
+  "homepage": "https://github.com/NeverwinterMoon/device-grid#readme",
+  "devDependencies": {
+    "webpack": "3.10.0"
+  }
 }
