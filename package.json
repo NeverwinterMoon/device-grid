@@ -1,0 +1,19 @@
+{
+  "name": "device-grid",
+  "version": "1.0.0",
+  "description": "This is the best project of all!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeverwinterMoon/device-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeverwinterMoon/device-grid/issues"
+  },
+  "homepage": "https://github.com/NeverwinterMoon/device-grid#readme"
+}
