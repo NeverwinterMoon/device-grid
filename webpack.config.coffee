@@ -1,3 +1,4 @@
+path = require 'path'
 HtmlWebpackPlugin = require 'html-webpack-plugin'
 
 module.exports =
@@ -20,6 +21,7 @@ module.exports =
     ]
   entry: './src/index.coffee'
   output:
-    filename: './dist/index.js'
+    path: path.resolve(__dirname + '/dist')
+    filename: 'index.js'
   devServer:
     contentBase: ['./src/']
