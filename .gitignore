@@ -3,3 +3,5 @@ elm-stuff/
 dist/
 .idea/workspace.xml
 .idea/shelf
+.idea/inspectionProfiles
+npm-debug.log
