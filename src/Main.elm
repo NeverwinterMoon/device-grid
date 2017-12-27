@@ -5,6 +5,6 @@ mainDiv name =
 
 main =
     let
-        name = "Aarne!"
+        name = "Aarne"
     in
         mainDiv name
